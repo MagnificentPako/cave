@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Pako</title>
+    <link>https://procrastination.life/project/</link>
+    <description>Recent content in Projects on Pako</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://procrastination.life/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Something</title>
+      <link>https://procrastination.life/project/something/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://procrastination.life/project/something/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

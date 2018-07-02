@@ -1,0 +1,27 @@
+baseURL = "https://procrastination.life"
+languageCode = "en-us"
+title = "Pako"
+theme = "minimal"
+
+[params]
+    author      = "Pako"
+    description = "Prepare your towels" 
+    showBorder  = true
+    accent      = "purple"
+    font        = "Raleway"
+
+[[menu.main]]
+    url    = "/"
+    name   = "Home"
+    weight = 1
+
+[[menu.main]]
+    url    = "/post/"
+    name   = "Posts"
+    weight = 2
+
+[[menu.main]]
+    url    = "/project"
+    name   = "Projects"
+    weight = 3
+

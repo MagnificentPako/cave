@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pako</title>
+    <link>https://procrastination.life/</link>
+    <description>Recent content on Pako</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jul 2018 17:43:38 +0200</lastBuildDate>
+    
+	<atom:link href="https://procrastination.life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Something</title>
+      <link>https://procrastination.life/project/something/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://procrastination.life/project/something/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>But why?</title>
+      <link>https://procrastination.life/post/but_why/</link>
+      <pubDate>Mon, 02 Jul 2018 17:43:38 +0200</pubDate>
+      
+      <guid>https://procrastination.life/post/but_why/</guid>
+      <description>Guess I needed some place where I can accumulate my stuff.
+This shall be said place.
+Have fun lurking on my blog.</description>
+    </item>
+    
+  </channel>
+</rss>
